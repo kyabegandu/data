@@ -1,0 +1,8 @@
+mobile.sim.brg.go.id/db/:BRGD1:BRG12345
+mobile.sim.brg.go.id/db/riau/:brgd1:brg12345
+https://mobile.sim.brg.go.id/db/riau/ BRGPUSAT:brg12345
+http://mobile.sim.brg.go.id/db/riau/:BRGPUSAT:brg12345
+https://mobile.sim.brg.go.id/db/riau/:BRGPUSAT:brg12345
+mobile.sim.brg.go.id/db/:pokjaren:pokjaren
+mobile.sim.brg.go.id/db/index.php:BRGMD1:brg12345
+http://mobile.sim.brg.go.id/db/riau/ BRGPUSAT:brg12345
